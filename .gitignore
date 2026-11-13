@@ -1,0 +1,11 @@
+# Build output
+debug/
+release/
+flash_debug/
+flash_release/
+
+# Junction to the local SDK
+__repo__
+
+# Machine-specific tool paths; see mcux_include.json.template
+mcux_include.json
